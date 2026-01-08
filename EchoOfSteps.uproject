@@ -249,10 +249,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "EngineCameras",
-			"Enabled": false
-		},
-		{
 			"Name": "GameplayCameras",
 			"Enabled": false
 		},
@@ -357,6 +353,14 @@
 		},
 		{
 			"Name": "Volumetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "TemplateSequence",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
 			"Enabled": true
 		}
 	],
