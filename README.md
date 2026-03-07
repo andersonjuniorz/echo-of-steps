@@ -53,7 +53,7 @@ Download the `EchoOfSteps.zip` build (489MB) directly from this repository's rel
 
 # How to open the source code (For Devs)?
 
-1. In your terminal, run: `git clone https://github.com/andersonjuniorz/echo-of-steps`
+1. In your terminal, run: `git clone https://github.com/andersonjuniorz/echo-of-steps.git`
 2. Double-click on `EchoOfSteps.uproject` to open the project.
 3. Locate the starting level at: `EchoOfSteps > Maps > MainMenu > Lvl_MainMenu`
 
