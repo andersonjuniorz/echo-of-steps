@@ -1,7 +1,6 @@
 # Echo of Steps | 3D Platformer
 
-<img width="2156" height="996" alt="EchoOfSteps" src="https://github.com/user-attachments/assets/a2a07170-ecea-4ca2-bb86-c676835dd8c0" />
-
+<img width="1360" height="768" alt="EchoOfStepsTrailer" src="https://github.com/user-attachments/assets/444d27ec-be5d-4922-bbaf-28a493283942" />
 
 ## Description
 **Echo of Steps is a stylized 3D platformer** developed in Unreal Engine `5.7`. This project started as an initiative to study and dive deep into the core fundamentals of game development within Unreal Engine.
