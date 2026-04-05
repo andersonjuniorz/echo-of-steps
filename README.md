@@ -51,10 +51,28 @@ Download the `EchoOfSteps.zip` build (489MB) directly from this repository's rel
 `https://github.com/andersonjuniorz/echo-of-steps/releases/tag/v1.0.0`
 
 # How to open the source code (For Devs)?
+Follow these steps to download the project correctly:
 
-1. In your terminal, run: `git clone https://github.com/andersonjuniorz/echo-of-steps.git`
-2. Double-click on `EchoOfSteps.uproject` to open the project.
-3. Locate the starting level at: `EchoOfSteps > Maps > MainMenu > Lvl_MainMenu`
+1. Clone the repository:
+```
+git clone https://github.com/andersonjuniorz/echo-of-steps.git
+```
+
+2. Install Git LFS:
+You need Git Large File Storage for the large assets. Download it at `git-lfs.com`
+
+3. Pull the Assets:
+Open the project folder in your terminal and run these commands to download the real files:
+```
+cd echo-of-steps
+git lfs install
+git lfs pull
+```
+4. Open the Project:
+Double-click `EchoOfSteps.uproject` to open the project in Unreal Engine 5.
+
+5. Starting Level:
+You can find the main menu level at: `EchoOfSteps > Maps > MainMenu > Lvl_MainMenu`
 
 
 ## Gameplay - How to play?
