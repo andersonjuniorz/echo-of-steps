@@ -32,13 +32,18 @@ Content/
 
 ```
 
-# Minimum Hardware Requirements
+# 💻 System Requirements
 
-```
-RAM: 8GB or more.
-GPU: 2GB VRAM or more.
-Disk Space: 600MB or more.
-```
+| Component | Minimum Requirement |
+| :--- | :--- |
+| **OS** | Windows 10/11 (64-bit) |
+| **Processor** | Intel Core i3-530 / AMD A6-3650 or better |
+| **Memory** | 4 GB RAM |
+| **Graphics** | NVIDIA GeForce 920MX (2 GB VRAM) or equivalent |
+| **DirectX** | Version 11 / 12 |
+| **Storage** | 800 MB available space |
+
+---
 
 # Where to download the build (For Players)?
 
